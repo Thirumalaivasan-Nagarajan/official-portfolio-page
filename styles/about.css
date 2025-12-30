@@ -1,7 +1,7 @@
 .about
 {
-    background-color:rgb(218, 126, 126);
-    
+    margin-left:125px;
+    margin-right:125px;
 }
 .description
 {
@@ -14,6 +14,15 @@
 {
     width:400px;
     height:400px;
+}
+.thiru
+{
+    border-radius:50px;
+    width:100%;
+}
+.content
+{
+    margin-left:50px;
 }
 .title
 {
@@ -42,4 +51,12 @@
 {
     width:400px;
     height:400px;
+}
+@media (max-width:250px)
+{
+    .description
+    {
+        display:grid;
+        grid-template-rows:250px 1fr;
+    }
 }
