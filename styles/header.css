@@ -1,0 +1,47 @@
+.navigation a
+{
+    text-decoration: none;
+}
+#header
+{
+    display:flex;
+    color:white;
+    justify-content:space-between;
+    background-color:rgb(167, 12, 12);
+    position:fixed;
+    top:0;
+    right:0;
+    left:0;
+}
+#portfolio
+{
+    margin-top:12px;
+}
+.navigation
+{
+    display:flex;
+    align-items:row;
+    justify-content:space-between;
+    width:500px;
+}
+.head-text
+{
+    font-size:22px;
+    font-family:Roboto;
+    color:white;
+}
+.logos
+{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:12px;
+    width:150px;
+}
+.header-logo
+{
+    width:40px;
+    height:40px;
+    border-radius:20px;
+    margin-top:10px;
+}

@@ -1,0 +1,45 @@
+.about
+{
+    background-color:rgb(218, 126, 126);
+    
+}
+.description
+{
+    display:grid;
+    grid-template-columns:3fr 7fr;
+    margin-left:20px;
+    margin-right:50px;
+}
+.thiru-image
+{
+    width:400px;
+    height:400px;
+}
+.title
+{
+    display:flex;
+    justify-content: center;
+    text-decoration: underline;
+} 
+.title p
+{
+    font-size:30px;
+    font-family:BBH Hegarty;
+}
+.intro-title
+{
+    font-size:30px;
+    font-family:BBH Hegarty;
+
+}
+.details
+{
+    font-size:23px;
+    font-family:Roboto;
+    color:rgb(97, 93, 93);
+}
+.thiru
+{
+    width:400px;
+    height:400px;
+}
