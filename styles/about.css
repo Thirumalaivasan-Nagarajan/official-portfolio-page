@@ -1,4 +1,4 @@
-.about
+#about
 {
     margin-left:125px;
     margin-right:125px;
@@ -29,12 +29,10 @@
     display:flex;
     justify-content: center;
     text-decoration: underline;
-} 
-.title p
-{
     font-size:30px;
     font-family:BBH Hegarty;
-}
+} 
+
 .intro-title
 {
     font-size:30px;
