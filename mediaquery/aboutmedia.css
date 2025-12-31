@@ -1,0 +1,12 @@
+@media(max-width:800px)
+{
+    #about
+    {
+        margin-left:0px;
+        margin-right:0px;
+    }
+    .description
+    {
+        grid-template-columns:1fr;
+    }
+}
